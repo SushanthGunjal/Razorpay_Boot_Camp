@@ -1,0 +1,10 @@
+  - path: /rzp
+    url: https://razorpay.com
+  - path: /ytb
+    url: https://www.youtube.com
+  - path: /tw
+    url: https://www.thirdwatch.ai
+  - path: /op
+    url: https://www.opfin.com
+  - path: /fb
+    url: https://www.facebook.com
